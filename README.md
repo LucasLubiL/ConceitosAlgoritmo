@@ -1,2 +1,2 @@
-# conceitosalforitmo
+# conceitosalgoritmo
 atividades
